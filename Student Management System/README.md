@@ -14,6 +14,8 @@ used file handling for storing data,
 like create file , write , read, open close
 
 here is the Program execution flow
-
+<br>
+<div>
 <img src="Execution_IMG/img_1.png">
 <img src="Execution_IMG/img_2.png">
+</div>
