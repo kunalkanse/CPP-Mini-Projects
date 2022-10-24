@@ -11,14 +11,12 @@ such as
     
  Here are some execution flow snaps
  
- <strong>Menu Driven Application</strong>
+1) Menu Driven Application
 <br>
-
 <img src="Execution_IMG/Menu.png">
 
 <br>
-<br>
 
-<strong> Validation </strong>
+2) Validation
 <br>
 <img src="Execution_IMG/Validation.png">
