@@ -16,6 +16,6 @@ like create file , write , read, open close
 here is the Program execution flow
 <br>
 <div>
-<img <h1>(1)</h1> align="left" width="450" src="Execution_IMG/img_1.png">
+<img align="left" width="450" src="Execution_IMG/img_1.png">
 <img align="right" width="450" src="Execution_IMG/img_2.png">
 </div>
